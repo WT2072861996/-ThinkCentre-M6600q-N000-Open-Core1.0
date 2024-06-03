@@ -13,7 +13,6 @@
   
 主硬盘：  三星 MZNLN256HCHP-000L2 (256 GB / 固态硬盘)
   
-显示器： OOO OOO0000 F3201 ( 31.5 英寸  )
   
 声卡  ： 瑞昱  @ 英特尔 High Definition Audio 控制器
   

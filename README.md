@@ -27,6 +27,6 @@
 
 参考下面参数修改：
 
-AAPL,ig-platform-id  00001B19  DATA类型
+AAPL,ig-platform-id--00001B19--DATA类型
 
-device-id            1B190000  DATA类型
+device-id------------1B190000--DATA类型

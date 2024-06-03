@@ -18,3 +18,14 @@
 声卡  ： 瑞昱  @ 英特尔 High Definition Audio 控制器
   
 网卡  ： 英特尔 Ethernet Connection  I219-V / 联想
+
+目前安装的是macOS Sonoma14.5 核显仿冒的是 HD620
+
+支持Ventura- Sonoma全系系统
+
+如果需要装Ventura以下版本系统系统需要修改一下核显参数
+
+参考下面参数修改：
+
+AAPL,ig-platform-id  00001B19  DATA类型
+device-id            1B190000  DATA类型

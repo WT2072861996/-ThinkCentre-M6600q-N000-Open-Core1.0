@@ -15,7 +15,7 @@
 - **Integrated Graphics:** HD620 (Faked)
 - **Supported Systems:** Ventura-Sonoma full range systems
 
-If you need to install systems below Ventura, you need to modify the graphics parameters. Refer to the following parameter modifications:
+## If you need to install systems below Ventura, you need to modify the graphics parameters. Refer to the following parameter modifications:
 
 - `AAPL,ig-platform-id`: 00001B19 (DATA type)
 - Device ID: 1B190000 (DATA type)
